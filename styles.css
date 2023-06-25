@@ -1,0 +1,50 @@
+.container {
+    width: 400px;
+    margin: 200px auto;
+    text-align: center;
+    color: rgb(2, 72, 89);
+    fill: black;
+    
+    
+  }
+  body{
+    background-image: url(temp2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    
+  }
+  
+  
+  input[type="text"], select {
+    padding: 10px;
+    margin: 10px;
+    width: 150px;
+    color: black;
+    box-shadow: .3rem;
+    border: 8rem;
+    
+    
+    
+  }
+  
+  button {
+    padding: 10px 20px;
+    
+  }
+  
+  #result {
+    margin-top: 30px;
+    color: rgb(231, 4, 4);
+    font-size: xx-large;
+    font-weight: bolder;
+  }
+  h1{
+    color:black;
+    font-weight: bolder;
+    font-size: xx-large;
+    font-stretch: ultra-condensed;
+    font-variant: normal;
+  
+  }
+  
